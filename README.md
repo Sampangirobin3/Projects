@@ -1,37 +1,37 @@
-# 📊 Data Science Portfolio  
+# 📊 Data Science & Analytics Portfolio  
 
-Welcome to my **Data Science & Analytics Portfolio**! 🚀  
-This repository brings together multiple projects where I explore **data wrangling, machine learning, ETL, and reporting**.  
+Welcome to my **Data Science Portfolio**! 🚀  
+This repository brings together multiple projects where I explore **data wrangling, machine learning, and reporting**.  
 
 ---
 
 ## 📂 Projects  
 
-### 🔹 1. Web Scraping — Medicare Portal Remark Codes  
+### 1️⃣ Web Scraping — Medicare Portal Remark Codes  
 - **Goal**: Extract **remark codes** from the Medicare portal using Python web scraping.  
 - **Tech stack**: BeautifulSoup, Requests, Pandas.  
-- **Notebook**: [Medicare Web Scraping](notebooks/medicare_scraper.ipynb)  
-- **Highlights**:
-  - Automated extraction of claim remark codes.
-  - Cleaned and structured scraped data for analytics.
+- **Notebook**: [Scraping the remark codes](Scraping%20the%20remarkCodes.ipynb)  
+- **Highlights**:  
+  - Automated extraction of claim remark codes.  
+  - Cleaned and structured scraped data for analytics.  
 
 ---
 
-### 🔹 2. Iris Dataset — Classification  
+### 2️⃣ Iris Dataset — Classification  
 - **Goal**: Predict flower species using ML models.  
 - **Tech stack**: scikit-learn, Pandas, Seaborn, Matplotlib.  
-- **Notebook**: [Iris Classification](notebooks/iris_classification.ipynb)  
-- **Highlights**:
-  - EDA & visualization of Iris features.  
-  - Trained multiple models → Random Forest reached >95% accuracy.  
+- **Notebook**: [Iris Classification](Iris.ipynb)  
+- **Highlights**:  
+  - Performed EDA & visualization of Iris features.  
+  - Built multiple models → Random Forest achieved >95% accuracy.  
 
 ---
 
-### 🔹 3. California Housing Prices — Regression  
-- **Goal**: Predict median housing prices in California.  
+### 3️⃣ California Housing Prices — Regression  
+- **Goal**: Predict median housing prices in California using census data.  
 - **Tech stack**: scikit-learn, Pandas, Matplotlib.  
-- **Notebook**: [California Housing Regression](notebooks/california_housing_prices.ipynb)  
-- **Highlights**:
+- **Notebook**: [California Housing Regression](Model%20Evaluation%20-%20California%20Housing%20Prices_.ipynb)  
+- **Highlights**:  
   - Data cleaning, handling missing values, feature engineering.  
   - Built regression models → Random Forest performed best.  
 
@@ -39,7 +39,7 @@ This repository brings together multiple projects where I explore **data wrangli
 
 ## 📑 Report  
 
-A **comprehensive project report** is included to summarize findings and results.  
+A **comprehensive report** summarizing the findings and results is included.  
 👉 [Open Report](report/DataScience_Report.pdf)  
 
 ---
